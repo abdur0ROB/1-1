@@ -1,0 +1,13 @@
+Dr (col) M Sitaram:Male:Cardiologist:DM,MD,MBBS,FDSRCS,FFDRCS:Monday:Saturday:11.30 AM:4.00 PM:01711716409:5430:
+Dr A K Bardhan:Male:Cardiologist:MBBS (1971), MD (1979), Dip. Card. (1976), FCCP:Monday:Saturday:11.00 AM:12.00 PM:0181966939:WBMC- 34024:
+Dr A K Banerji:Male:Neurosurgeon:MBBS, MS,(Surgery) MS (Neurosurgery):Monday:Saturday:10.00 AM:1.00 PM:01745206030:UPMC – 8282:
+Dr Abhilash Bansal:Male:Neurosurgeon:MBBS, DNB (Neurosurgery):Monday:Saturday:10.00 AM:1.00 PM:01621301630:KMC 106089:
+Dr Aashay Kekatpure:Male:Orthopedician:MBBS, DNB (Ortho):Monday:Saturday:5.00 PM:7.00 PM:01887965625:67934:
+Dr A K Handa:Male:Gastroenterologist: MD (DNB) MDICINI, DM GASTRO:Monday:Friday:6.00 PM:7.00 PM:01875654525:K- 2870:
+Dr Aabha Nagral:Male:Gastroenterologist:MBBS, MD, DNB (Gastro), Fellowship in Hepatology and Liver Transplanation:Tuesday:Saturday:10.00 AM:1.00 PM:01811727205:MMC -55664:
+Dr A Roy Chowdhury:Male:Dentist:BDS:Monday:Friday:8.00 AM:10.00 AM:01711716525:02755:
+Dr Abhijit Chakraborty:Male:Dentist:BDS:Sunday:Saturday:6.00 PM:8.00 PM:01856569871:NULL:
+Anita Bapat:Female:Gynecologist:MBBS, DGO(Gynaec & Obs), DBN:Monday:Saturday:6.30 PM:8.30 PM:01562548486:0070/01/2002:
+Dr Aarthi Bharat:Female:Gynecologist:MBBS, MD - Obstetrics & Gynaecology:Monday:Saturday:9.30 AM:10.30 AM:01655234658:51426:
+Dr A M Thakkar:Male:Urologist:NULL:Monday:Friday:9.00 AM:10.30 AM:01719545682:NULL: 
+Dr Aashay Kumar:Male:Psychiatric:MBBS, DNB:Monday:Saturday:5.00 PM:7.00 PM:01887960005:67LM4:
